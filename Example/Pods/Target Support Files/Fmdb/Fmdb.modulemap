@@ -1,0 +1,6 @@
+framework module Fmdb {
+  umbrella header "Fmdb-umbrella.h"
+
+  export *
+  module * { export * }
+}
